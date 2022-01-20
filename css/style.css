@@ -61,4 +61,39 @@
     width: 250px;
     height: 300px;
     float: left;
+    position: relative;
+    bottom: 392px;
+    left: 300px;
+}
+
+.sconto2{
+    position: relative;
+    background-color: red;
+    width: 25px;
+    bottom:480px;
+    left: 360px;
+    font-size: 12px;
+}
+
+.sostenibilità2{
+    position: relative;
+    background-color: greenyellow;
+    width: 70px;
+    bottom: 493px;
+    left: 390px;
+    font-size: 12px;
+}
+
+.album-number2, .album-title2{
+        margin: 5px 0px;
+        font-size: 20px;
+        position: relative;
+        width: 40px;
+        height: -20px;
+        bottom: 390px;
+        left: 350px;
+}
+    
+.album-number2{
+        color: red;
 }
