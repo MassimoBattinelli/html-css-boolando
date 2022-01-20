@@ -21,6 +21,11 @@
     float: left;
 }
 
+.cuore1{
+    position: relative;
+    bottom: 350px;
+}
+
 .album-image img {
     width: 100%;
 }
@@ -71,16 +76,7 @@
     background-color: red;
     width: 25px;
     bottom:480px;
-    left: 360px;
-    font-size: 12px;
-}
-
-.sostenibilità2{
-    position: relative;
-    background-color: greenyellow;
-    width: 70px;
-    bottom: 493px;
-    left: 390px;
+    left: 310px;
     font-size: 12px;
 }
 
@@ -91,9 +87,138 @@
         width: 40px;
         height: -20px;
         bottom: 390px;
-        left: 350px;
+        left: 300px;
 }
     
 .album-number2{
         color: red;
+}
+
+.img3{
+    width: 250px;
+    height: 300px;
+    float: left;
+    position: relative;
+    bottom: 760px;
+    left: 580px;
+}
+
+.sconto3{
+    position: relative;
+    background-color: red;
+    width: 25px;
+    bottom:845px;
+    left: 590px;
+    font-size: 12px;
+}
+
+.album-number3, .album-title3{
+        margin: 5px 0px;
+        font-size: 20px;
+        position: relative;
+        width: 40px;
+        height: -20px;
+        bottom: 755px;
+        left: 580px;
+}
+    
+.album-number3{
+        color: red;
+}
+
+.img4{
+    width: 250px;
+    height: 300px;
+    float: left;
+    position: relative;
+    bottom: 760px;
+    left: 10px;
+}
+
+.sconto4{
+    position: relative;
+    background-color: red;
+    width: 25px;
+    bottom:845px;
+    left: 20px;
+    font-size: 12px;
+}
+
+.album-number4, .album-title4{
+        margin: 5px 0px;
+        font-size: 20px;
+        position: relative;
+        width: 40px;
+        height: -20px;
+        bottom: 755px;
+        left: 10px;
+}
+    
+.album-number4{
+        color: red;
+}
+
+.sostenibilità4{
+    position: relative;
+    background-color: greenyellow;
+    width: 70px;
+    bottom: 860px;
+    left: 50px;
+    font-size: 12px;
+}
+
+.img5{
+    width: 250px;
+    height: 300px;
+    float: left;
+    position: relative;
+    bottom: 1142px;
+    left: 300px;
+}
+
+
+.album-number5, .album-title5{
+        margin: 5px 0px;
+        font-size: 20px;
+        position: relative;
+        width: 40px;
+        height: -20px;
+        bottom: 1135px;
+        left: 300px;
+}
+    
+.album-number5{
+        color: red;
+}
+
+.img6{
+    width: 250px;
+    height: 300px;
+    float: left;
+    position: relative;
+    bottom: 1497px;
+    left: 580px;
+}
+
+.album-number6, .album-title6{
+        margin: 5px 0px;
+        font-size: 20px;
+        position: relative;
+        width: 40px;
+        height: -20px;
+        bottom: 1490px;
+        left: 580px;
+}
+    
+.album-number6{
+        color: red;
+}
+
+.sostenibilità6{
+    position: relative;
+    background-color: greenyellow;
+    width: 70px;
+    bottom:1580px;
+    left: 590px;
+    font-size: 12px;
 }
