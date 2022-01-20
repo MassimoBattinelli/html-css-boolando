@@ -12,7 +12,6 @@
     margin: 10px;
     float: left;
     width: calc(100% / 3 -20px);
-    /* height:  */
 }
 
 .img1{
@@ -23,7 +22,10 @@
 
 .cuore1{
     position: relative;
-    bottom: 350px;
+    bottom: 380px;
+    left: 245px;
+    background-color: white;
+    width: 20px;
 }
 
 .album-image img {
@@ -69,6 +71,14 @@
     position: relative;
     bottom: 392px;
     left: 300px;
+}
+
+.cuore2{
+    position: relative;
+    width: 20px;
+    bottom: 750px;
+    left: 535px;
+    background-color: white;
 }
 
 .sconto2{
